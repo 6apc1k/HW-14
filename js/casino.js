@@ -246,8 +246,8 @@ function checkList() {
 
 
 module.exsports = {
-    Casino,
-    generateMachines,
-    SlotMachine,
-    checkList
+    Casino: Casino,
+    generateMachines: generateMachines,
+    SlotMachine: SlotMachine,
+    checkList: checkList
 };
